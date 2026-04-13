@@ -1,6 +1,6 @@
 # Waveform-Based Feature Analysis in Financial and Economic Times
 
-**Authors:** Dharun Ramesh, Shiying Li, Mayur Vanne, Richard Wei, Zhenpeng Lin, Shreyon Roy
+**Authors:** Dharun Ramesh
 
 ## Introduction
 ### Objective
